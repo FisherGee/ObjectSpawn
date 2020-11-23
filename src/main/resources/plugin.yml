@@ -1,0 +1,13 @@
+name: ObjectSpawn
+description: Cool spawn plugin.
+author: FisherGee
+main: me.fishergee.objectspawn.Core
+version: 1.0
+
+commands:
+  setspawn:
+    description: sets the spawn location
+    usage: /setspawn
+  openinv:
+    description: opens spawn inventory
+    usage: /openinv

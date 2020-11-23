@@ -1,0 +1,6 @@
+me\fishergee\objectspawn\object\SpawnInventory.class
+me\fishergee\objectspawn\cmds\SetSpawnCmd.class
+me\fishergee\objectspawn\listeners\PlayerClickListener.class
+me\fishergee\objectspawn\cmds\OpenInvCmd.class
+me\fishergee\objectspawn\Core.class
+me\fishergee\objectspawn\object\Spawn.class
